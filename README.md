@@ -24,9 +24,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 hello-rails-back-end <a name="about-project"></a>
+# 📖 hello-rails-back <a name="about-project"></a>
 
-**hello-rails-back-end** Is a Rails app that serves data from a PostgreSQL database to [hello-react-frontend ](https://github.com/yemidada/hello-rails-frontend) React frontend App in JSON format through an API endpoint.
+**hello-rails-back** Is a Rails app that serves data from a PostgreSQL database to [hello-react-frontend ](https://github.com/yemidada/hello-rails-frontend) React frontend App in JSON format through an API endpoint.
 
 ## 🛠 Built With <a name="built-with"></a>
 
